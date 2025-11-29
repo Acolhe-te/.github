@@ -1,4 +1,4 @@
-# # Acolhe-te
+# Acolhe-te
 
 O **Acolhe-te** é um sistema criado para oferecer apoio direto e seguro a vítimas de violência doméstica, unindo duas frentes fundamentais: **denúncia protegida** e **empregabilidade**. A plataforma foi pensada para promover acolhimento, segurança, autonomia e reconstrução de vidas.
 
@@ -56,8 +56,8 @@ Em desenvolvimento.
 
 ## 👩‍💻 Desenvolvedoras
 
-| Desenvolvedora                                                                                 |
-| ---------------------------------------------------------------------------------------------- |
-| <a href="github.com/gabrielesilv"> **Gabriele Monteiro** </a> |
-| <a href="github.com/tahkasai"> **Tainá Kasai** </a>               |
-| <a href="github.com/talitasabine">**Talita Sabine**</a>       |
+| Foto |  Nome                                                                               | Contato |
+| ---- | ---------------------------------------------------------------------------------------------- | --|
+| <img width="100" alt="image" src="https://github.com/user-attachments/assets/5e0564aa-6118-4d6e-a6db-2604d84dfd03"/> | **Gabriele Monteiro** |<a href="https://www.linkedin.com/in/gabrielesilv/">LinkedIn</a>
+| <img width="100" alt="image" src="https://github.com/user-attachments/assets/675fe5d6-ea4d-4e65-8baa-26fb9826b3d4" /> | **Tainá Kasai**  | <a href="https://linktr.ee/taina_kasai">Linketree</a>
+| <img width="100" alt="image" src="https://github.com/user-attachments/assets/687d3767-7cce-4edd-8498-090a430c9213" /> | **Talita Sabine**   | <a href="https://www.linkedin.com/in/talita-sabine-0518691a0/">LinkedIn</a>
